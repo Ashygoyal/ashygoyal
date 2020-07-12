@@ -5,7 +5,24 @@
 <a href="https://www.linkedin.com/in/ashygoyal/"><img height="30" src="https://res.cloudinary.com/ashygoyal/image/upload/v1594586139/Github/linkedin.png"></a>
 </p>
 
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Ashish 👨‍💻
+</h1>
+
+<p align='center'>
+  Frontend Developer | UX/UI Enthusiast | Artist
+</p>
+
+---
+
+<p align='center'>
+### Skills 💻
+<img src= "https://img.shields.io/badge/-Javascript-yellow?logo=javascript&style=for-the-badge" />
+<img src= "https://img.shields.io/badge/-html5-black?logo=html5&style=for-the-badge&logoColor=orange" />
+<img src= "https://img.shields.io/badge/-css3-black?logo=css3&style=for-the-badge&logoColor=blue" />
+<img src="https://img.shields.io/badge/-Angular-black?logo=angular&style=for-the-badge&logoColor=red" />
+<img src="https://img.shields.io/badge/-figma-black?logo=figma&style=for-the-badge" />
+</p>
 
 <!--
 **Ashygoyal/ashygoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
