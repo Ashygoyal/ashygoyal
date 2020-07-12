@@ -1,3 +1,10 @@
+# [![ashish goyal header](https://res.cloudinary.com/ashygoyal/image/upload/v1594585862/Github/cover.png)](https://ashishgoyal.in)
+<p align='center'>
+<a href="https://twitter.com/ashish_tiff"><img height="30" src="https://res.cloudinary.com/ashygoyal/image/upload/v1594586140/Github/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/ashygoyal/?hl=en"><img height="30" src="https://res.cloudinary.com/ashygoyal/image/upload/v1594586139/Github/instagram.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ashygoyal/"><img height="30" src="https://res.cloudinary.com/ashygoyal/image/upload/v1594586139/Github/linkedin.png"></a>
+</p>
+
 ### Hi there 👋
 
 <!--
