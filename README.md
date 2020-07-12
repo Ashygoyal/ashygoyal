@@ -14,7 +14,9 @@
 </p>
 
 ---
-### Skills 💻
+<h3 align='center'>
+ Skills 💻
+</h3>
 <p align='center'>
 <img src= "https://img.shields.io/badge/-Javascript-black?logo=javascript&style=for-the-badge" />
 <img src= "https://img.shields.io/badge/-html5-black?logo=html5&style=for-the-badge&logoColor=orange" />
