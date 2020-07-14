@@ -25,6 +25,10 @@
 <img src="https://img.shields.io/badge/-figma-black?logo=figma&style=for-the-badge" />
 </p>
 
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ashygoyal.visitor-badge">
+ <p/>
+
 <!--
 **Ashygoyal/ashygoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
