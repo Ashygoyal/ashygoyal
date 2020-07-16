@@ -38,14 +38,14 @@ const me = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ionic, Angular, Mongo, Cordova, Bootstrap, jQuery Mobile UI],
   tools: [Visual Studio Code, Node, Git, Jenkins, JIRA, Swagger, Selenium],
-  ui-ux: [prototyping, wireframing, visual designs, Figma, AdobeXD, InVision, Zeplin],
+  ui-ux: [Prototyping, Wireframing, visualDesigns, Figma, AdobeXD, InVision, Zeplin],
   hobbies: {
                         art: "digitalSketches","portraits",
-                        music:  "bassGuitar","acousticGuitar"
-                        gaming: "callOfDutyMobile", "counterStrike", "pubg"
+                        music:  "bassGuitar","acousticGuitar",
+                        gaming: "callOfDutyMobile", "counterStrike", "pubg",
                       },
  goal: "I love challenging myself with problems and I am always curious to learn new things",
- tagline: "declare variables, not war !!" 
+ tagline: "declare variables, not war !!",
 }
 ```
 
