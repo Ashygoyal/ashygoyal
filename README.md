@@ -30,7 +30,7 @@
  <p/>
  -->
  <h3 align='center'>
- 	More About Me 🧔
+ 	More About Me 🧔🏻
  </h3>
 
  ```javascript
