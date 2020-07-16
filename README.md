@@ -25,9 +25,30 @@
 <img src="https://img.shields.io/badge/-figma-black?logo=figma&style=for-the-badge" />
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ashygoyal.visitor-badge">
  <p/>
+ -->
+ <h3 align='center'>
+ 	More About Me
+ </h3>
+
+ ```javascript
+const me = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Ionic, Angular, Mongo, Cordova, Bootstrap, jQuery Mobile UI],
+  tools: [Visual Studio Code, Node, Git, Jenkins, JIRA, Swagger, Selenium],
+  ui-ux: ["prototyping", "wireframing", "visual designs", "Figma", "AdobeXD", "InVision", "Zeplin"],
+  hobbies: {
+                        art: "digitalSketches","portraits",
+                        music:  "bassGuitar","acousticGuitar"
+                        gaming: "callOfDutyMobile", "counterStrike", "pubg"
+                      },
+ goal: "I love challenging myself with problems and I am always curious to learn new things",
+ tagline: "declare variables, not war !!" 
+}
+```
+
 
 <!--
 **Ashygoyal/ashygoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
