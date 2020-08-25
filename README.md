@@ -1,4 +1,4 @@
-# [![ashish goyal header](https://res.cloudinary.com/ashygoyal/video/upload/v1598343043/Github/ashygoyal-cover.mp4)](https://ashishgoyal.in)
+# [![ashish goyal header](https://res.cloudinary.com/ashygoyal/image/upload/v1598343251/Github/coverPhoto.png)](https://ashishgoyal.in)
 <p align='center'>
 <a href="https://twitter.com/ashish_tiff" target="_blank"><img height="30" src="https://res.cloudinary.com/ashygoyal/image/upload/v1594586140/Github/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ashygoyal/?hl=en" target="_blank"><img height="30" src="https://res.cloudinary.com/ashygoyal/image/upload/v1594586139/Github/instagram.jpg"></a>&nbsp;&nbsp;
